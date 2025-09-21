@@ -1,0 +1,19 @@
+MATLAB SHORCUTS
+
+clc - clears the command window
+clearvars - clears all the workspace variables
+who - shows variables created
+whos - shows variables exists in the command window
+
+
+
+
+
+
+
+
+
+
+
+
+
