@@ -1,0 +1,12 @@
+% Matrices and Vectors:
+
+% Vector:
+x = 1:10
+x' % This is the transpose symbol '
+
+x = linspace(0, 50)
+
+% Arrays
+y = [12 50 -8 -100]
+% it can be like this: 
+% y = [12, 50, -8, -100]
